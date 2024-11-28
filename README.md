@@ -1,5 +1,10 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
+#使用
+当前使用https://github.com/immortalwrt/immortalwrt
+修改workflow内实现
+当前编译使用手动模式实现未配置.config
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
